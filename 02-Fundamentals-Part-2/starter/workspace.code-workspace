@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../Terraform"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "complete-javascript-course",
+		"editor.formatOnSave": true
+	}
+}
